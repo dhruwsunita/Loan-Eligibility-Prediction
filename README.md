@@ -13,7 +13,7 @@ Download dataset from here - [loan_data](https://drive.google.com/file/d/1zolUc8
 - Model Evaluation: The models are evaluated using various performance metrics such as accuracy, precision, recall, and score to assess their effectiveness.
 
 ### Requirements
-- Python 3.11
+- Python 3.11s
 - Pandas
 - NumPy
 - Scikit-learn
